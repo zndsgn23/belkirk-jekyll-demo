@@ -7,8 +7,6 @@ sections:
 - type: document
   path: _directory
   label: Directory
-  match: "**/*"
-  read_only: false
 - type: heading
   label: Content
 - type: jekyll-posts
